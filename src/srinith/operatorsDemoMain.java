@@ -11,11 +11,11 @@ public class operatorsDemoMain {
         // POST-INCREMENT OPERATOR
         int a = 5;
         int c = a++; // c = 5, a becomes 6
-        System.out.println("Post-increment: c = " + c + ", a = " + a);
+        System.out.println("Post-increment: c = " + c + ", a = " + a);     
 
-        // PRE-INCREMENT OPERATOR
+        // PRE-INCREMENT OPERATOR(USED IN FOR LOOP)
         int b = 5;
         int d = ++b; // b becomes 6, d = 6
-        System.out.println("Pre-increment: d = " + d + ", b = " + b);
+        System.out.println("Pre-increment: d = " + d + ", b = " + b);         
     }
 }
