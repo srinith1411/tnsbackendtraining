@@ -1,7 +1,7 @@
 package srinith;
  class OperatorsDemo {
 }
-class OperatorsDemoMain {
+public class OperatorsDemoMain {
     public static void main(String[] args) {
         
         int a = 10, b = 5;
