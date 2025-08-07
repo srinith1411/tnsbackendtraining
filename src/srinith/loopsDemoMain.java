@@ -1,8 +1,8 @@
 package srinith;
 
-public class  loopsDemo{
+ class  loopsDemo{
 }
- class  loopsDemoMain{
+ public class  loopsDemoMain{
     public static void main(String[] args) {
 
         // For Loop

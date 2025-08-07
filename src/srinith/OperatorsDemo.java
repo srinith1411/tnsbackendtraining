@@ -1,5 +1,5 @@
 package srinith;
-public class OperatorsDemo {
+ class OperatorsDemo {
 }
 class OperatorsDemoMain {
     public static void main(String[] args) {

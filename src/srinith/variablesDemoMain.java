@@ -1,6 +1,6 @@
 package srinith;
 
-public class variablesDemo {
+ class variablesDemo {
     String name; // INSTANCE VARIABLE
     static String collegeName = "KPRIT"; // STATIC VARIABLE
 
@@ -11,7 +11,7 @@ public class variablesDemo {
     }
 }
 
-class variablesDemoMain {
+public class variablesDemoMain {
     public static void main(String[] args) {
         variablesDemo ob = new variablesDemo();
         int a = 10;  // LOCAL VARIABLE
