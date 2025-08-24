@@ -1,4 +1,4 @@
-package srinith;
+// package srinith;
  class OperatorsDemo {
 }
 public class OperatorsDemoMain {

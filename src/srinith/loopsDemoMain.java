@@ -1,7 +1,4 @@
-package srinith;
 
- class  loopsDemo{
-}
  public class  loopsDemoMain{
     public static void main(String[] args) {
 

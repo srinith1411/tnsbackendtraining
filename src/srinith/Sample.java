@@ -1,4 +1,4 @@
-package srinith;
+// package srinith;
 
 public class Sample {
 public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package srinith;
+// package srinith;
 
  class variablesDemo {
     String name; // INSTANCE VARIABLE
