@@ -11,7 +11,7 @@ class Ticket {
     public Ticket(String passengerName, int seatNumber) {
         this.passengerName = passengerName;
         this.seatNumber = seatNumber;
-        this.booked = false; // initially not booked
+        this.booked = false; // initially not booked.
     }
 
     // Getter and Setter for passengerName

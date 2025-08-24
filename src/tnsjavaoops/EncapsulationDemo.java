@@ -4,7 +4,7 @@ class Student {
     private String name; // private data
     private int age;
 
-    // Getter and Setter methods
+    // Getter and Setter methods.
     public String getName() {
         return name;
     }

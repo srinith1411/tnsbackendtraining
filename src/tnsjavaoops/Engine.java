@@ -1,6 +1,6 @@
 package tnsjavaoops;
 
-// Interface 1
+// Interface 1.
 interface Engine {
     void startEngine();
 }

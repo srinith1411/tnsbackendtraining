@@ -18,7 +18,7 @@ class Animal {
 }
 
 class Dog extends Animal {
-    // Runtime polymorphism (method overriding)
+    // Runtime polymorphism (method overriding).
     void sound() {
         System.out.println("Dog barks");
     }

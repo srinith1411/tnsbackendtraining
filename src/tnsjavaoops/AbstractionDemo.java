@@ -9,7 +9,7 @@ abstract class Shape {
     }
 }
 
-// Concrete class
+// Concrete class.
 class Circle extends Shape {
     void draw() {
         System.out.println("Drawing a Circle");

@@ -10,7 +10,7 @@ public class TicketBooking {
         ticket1.bookTicket();
         ticket2.bookTicket();
 
-        // Try booking same seat again
+        // Try booking same seat again..
         ticket1.bookTicket();
 
         // Access data via getters

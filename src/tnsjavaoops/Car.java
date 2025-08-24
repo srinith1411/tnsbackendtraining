@@ -1,5 +1,5 @@
 package tnsjavaoops;
-class Car implements Engine, Wheels {
+class Car implements Engine, Wheels{
     @Override
     public void startEngine() {
         System.out.println("Car engine started");

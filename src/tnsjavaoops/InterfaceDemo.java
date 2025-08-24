@@ -1,6 +1,6 @@
 package tnsjavaoops;
 
-// Interface
+// Interface.
 interface Movable {
     void move();
 }
