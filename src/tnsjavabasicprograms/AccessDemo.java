@@ -1,3 +1,4 @@
+package tnsjavabasicprograms;
 class AccessExample {
     // Fields with different access levels
     public int publicVar = 10;

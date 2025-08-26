@@ -1,4 +1,4 @@
-// package srinith;
+package tnsjavabasicprograms;
  class OperatorsDemo {
 }
 public class OperatorsDemoMain {

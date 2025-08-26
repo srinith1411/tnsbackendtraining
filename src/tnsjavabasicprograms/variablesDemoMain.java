@@ -1,4 +1,4 @@
-// package srinith;
+ package tnsjavabasicprograms;
 
  class variablesDemo {
     String name; // INSTANCE VARIABLE
