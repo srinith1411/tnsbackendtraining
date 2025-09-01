@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 
 class SharedResource1  {
     // synchronized method to prevent concurrent access

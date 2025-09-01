@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 
 
 class MyThreadUsingThreadClass extends Thread {

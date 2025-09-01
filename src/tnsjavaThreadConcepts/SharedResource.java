@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 public class SharedResource {
     private int data;             // single shared variable
     private boolean dataAvailable = false;  // flag to control access

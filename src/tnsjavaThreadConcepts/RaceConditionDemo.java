@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 class Counter {
     int count = 0; // shared resource
 

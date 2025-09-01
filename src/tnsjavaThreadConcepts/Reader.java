@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 
 public class Reader implements Runnable {
     private final SharedResource resource;

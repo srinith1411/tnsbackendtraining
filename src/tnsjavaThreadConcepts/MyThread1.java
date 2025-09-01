@@ -1,4 +1,4 @@
-package tnsjavamultithreading;
+package tnsjavaThreadConcepts;
 class SharedResource {
     // Synchronized method
     public synchronized void printNumbers(String threadName) {
