@@ -1,4 +1,4 @@
-package tnsjavabasicprograms;
+package tnsjavabasicsprograms;
  class OperatorsDemo {
 }
 public class OperatorsDemoMain {

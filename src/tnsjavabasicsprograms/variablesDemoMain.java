@@ -1,4 +1,4 @@
- package tnsjavabasicprograms;
+ package tnsjavabasicsprograms;
 
  class variablesDemo {
     String name; // INSTANCE VARIABLE

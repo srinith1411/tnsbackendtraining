@@ -1,4 +1,4 @@
-package tnsjavabasicprograms;
+package tnsjavabasicsprograms;
 
  public class  loopsDemoMain{
     public static void main(String[] args) {
