@@ -1,4 +1,4 @@
-package tnsjavaexceptionhandling;
+package tnsjavaExceptionHandling;
 
 public class BasicTryCatch {
     public static void main(String[] args) {

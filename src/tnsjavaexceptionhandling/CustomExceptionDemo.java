@@ -1,4 +1,4 @@
-package tnsjavaexceptionhandling;
+package tnsjavaExceptionHandling;
 
 // Custom exception
 class InsufficientFundsException extends Exception {

@@ -1,4 +1,4 @@
-package tnsjavaexceptionhandling;
+package tnsjavaExceptionHandling;
 
 public class MultipleCatchDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tnsjavaexceptionhandling;
+package tnsjavaExceptionHandling;
 
 public class ThrowKeywordDemo {
     public static void checkAge(int age) {
