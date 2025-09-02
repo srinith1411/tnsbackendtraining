@@ -1,4 +1,4 @@
-package tnsjavacollectionsframework;
+package tnsjavaCollectionsFramework;
 import java.util.ArrayList;
 
 public class ArrayListDemo {

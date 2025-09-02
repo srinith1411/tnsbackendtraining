@@ -1,4 +1,4 @@
-package tnsjavacollectionsframework;
+package tnsjavaCollectionsFramework;
 
 import java.util.LinkedList;
 
