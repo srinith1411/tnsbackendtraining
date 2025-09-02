@@ -13,7 +13,7 @@ public class VectorDemo {
 
         System.out.println("Vector: " + vector);
 
-        // Access elements
+        // Access elements..
         System.out.println("First element: " + vector.firstElement());
         System.out.println("Last element: " + vector.lastElement());
 
